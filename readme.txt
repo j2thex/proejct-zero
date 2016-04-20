@@ -1,5 +1,5 @@
 added index.css
-<<<<<<< HEAD
+<<<<<< HEAD
 change 6
 =======
 change 7
