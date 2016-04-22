@@ -14,6 +14,6 @@ Project Zero
 - Startup GIT on *local machine*
 - Generate **SSH keys** for local machine to sync with **remote repository**
 - Learn GIT commands like:
-	- [Git add .]
-	- [Git commit]
-	- [Git push]
+	- `Git add .`
+	- `Git commit`
+	- `Git push`
