@@ -1,7 +1,7 @@
 Jeffrey's First Readme
 =======================
 
-Working with GIT, XLM, XQuery
+Working with GIT, XML, XQuery
 -----------------------------
 
 > If you stop studying - you start forgetting. 
