@@ -17,3 +17,4 @@ Project Zero
 	- `Git add .`
 	- `Git commit`
 	- `Git push`
+- Connect heroku
